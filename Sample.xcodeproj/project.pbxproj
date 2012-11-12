@@ -30,15 +30,15 @@
 /* Begin PBXFileReference section */
 		B21B8D4014B8FEAE009C3089 /* libSample.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libSample.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		B21B8D4314B8FEAE009C3089 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		B21B8D4714B8FEAE009C3089 /* Sample-Prefix.pch */ = {isa = PBXFileReference; path = "Sample-Prefix.pch"; sourceTree = "<group>"; };
-		B21B8D4814B8FEAE009C3089 /* Sample.h */ = {isa = PBXFileReference; path = Sample.h; sourceTree = "<group>"; };
+		B21B8D4714B8FEAE009C3089 /* Sample-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Sample-Prefix.pch"; sourceTree = "<group>"; };
+		B21B8D4814B8FEAE009C3089 /* Sample.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Sample.h; sourceTree = "<group>"; };
 		B21B8D4914B8FEAE009C3089 /* Sample.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Sample.m; sourceTree = "<group>"; };
 		B21B8D5014B8FEAE009C3089 /* SampleTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SampleTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B21B8D5114B8FEAE009C3089 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
 		B21B8D5314B8FEAE009C3089 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
-		B21B8D5B14B8FEAE009C3089 /* SampleTests-Info.plist */ = {isa = PBXFileReference; path = "SampleTests-Info.plist"; sourceTree = "<group>"; };
+		B21B8D5B14B8FEAE009C3089 /* SampleTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SampleTests-Info.plist"; sourceTree = "<group>"; };
 		B21B8D5D14B8FEAE009C3089 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		B21B8D5F14B8FEAE009C3089 /* SampleTests.h */ = {isa = PBXFileReference; path = SampleTests.h; sourceTree = "<group>"; };
+		B21B8D5F14B8FEAE009C3089 /* SampleTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SampleTests.h; sourceTree = "<group>"; };
 		B21B8D6014B8FEAE009C3089 /* SampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SampleTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
